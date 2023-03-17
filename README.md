@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://stackoverflow.com/users/21418865" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21418865" height="30" width="40" /></a>
 <a href="https://instagram.com/starklabz_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="starklabz_official" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/starklabz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="starklabz" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC2PVFBJbKb7GkEEdrrA0PZA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="starklabz" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/starklabz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="starklabz" height="30" width="40" /></a>
 <a href="https://discord.gg/EpwE9UXd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="EpwE9UXd" height="30" width="40" /></a>
 </p>
