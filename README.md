@@ -1,7 +1,6 @@
-![MasterHead](https://us.123rf.com/450wm/andreysuslov/andreysuslov2205/andreysuslov220500001/185416609-coding-code-of-program-on-desktop-pc-computer-of-programmer-on-desk-abstract-icons-diagrams.jpg?ver=6)
 <h1 align="center">Hi 👋, I'm Stark</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 💬 Ask me about **Whatever I know**
 
 - ⚡ Fun fact **I think I am not best but enough for this generation**
